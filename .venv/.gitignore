@@ -1,5 +1,1 @@
 # created by virtualenv automatically
-/venv
-db.sqlite3
-.idea
-*.pyc
